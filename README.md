@@ -14,7 +14,6 @@ Just below video , generate encrypted strings and put generated code in your dec
 
 
 ## This project is part of my training course.
-[more information on my Telegram Channel]([])
 - [more information on my Telegram Channel]([https://t.me/VSEC_academy])
 
 

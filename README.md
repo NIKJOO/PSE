@@ -1,5 +1,5 @@
 # 🐰 PSE - Polymorphic String Encryptor for C++
-PSP is an string encryption utility for C++ programmers to avoid expose sensitive strings during static & dynamic analysis easily.
+PSE is an string encryption utility for C++ programmers to avoid expose sensitive strings during static & dynamic analysis easily.
 
 
 # Features & Details

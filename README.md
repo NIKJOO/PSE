@@ -1,4 +1,4 @@
-# 🐰 PSP - Polymorphic String Encryptor for C++
+# 🐰 PSP - Polymorphic String Protector for C++
 PSP is an string encryption utility for C++ programmers to avoid expose sensitive strings during static & dynamic analysis easily.
 
 

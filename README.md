@@ -13,7 +13,7 @@ PSP is an string encryption utility for C++ programmers to avoid expose sensitiv
 # 🪄 How to Use
 Just below video , generate encrypted strings and put generated code in your decryption code , compile and enjoy !
 
-![](Video.gif)
+![](Demo.mp4)
 
 ##
 
